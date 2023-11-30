@@ -1,0 +1,13 @@
+Go to run comment 
+open run (windows+R)
+open diskpart
+trype [list disk]
+Select disk (number)
+clean
+go to this pc
+select drive
+Format drive
+then look Capacity: [Unknown capacity]
+go to cmd diskpart trype  [create partition primary]
+again format drive and save formate
+
